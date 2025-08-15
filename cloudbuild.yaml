@@ -48,7 +48,7 @@ steps:
         '.',
       ]
 images:
-  - 'asia-east1-docker.pkg.dev/$PROJECT_ID/settv-it/img-studio:latest'
+  - 'asia-east1-docker.pkg.dev/$PROJECT_ID/img-studio:latest'
 
 options:
   logging: CLOUD_LOGGING_ONLY
